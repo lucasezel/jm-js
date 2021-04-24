@@ -1,0 +1,100 @@
+[{
+        "id": 1,
+        "tipo": "Mate",
+        "nombre": "Miri",
+        "img":"assets/img/modelo-miri-productos.jpg",
+        "precio": 600,
+        "cantidad":1,
+        "stock": 30
+    },
+    {
+        "id": 2,
+        "tipo": "Mate",
+        "nombre": "Iru",
+        "img":"assets/img/modelo-iru-productos.jpg",
+        "precio": 700,
+        "cantidad":1,
+        "stock": 30
+    },
+    {
+        "id": 3,
+        "tipo": "Mate",
+        "nombre": "Angiru",
+        "img":"assets/img/modelo-angiru-productos.jpg",
+        "precio": 680,
+        "cantidad":1,
+        "stock": 30
+    },
+    {
+        "id": 4,
+        "tipo": "Mate",
+        "nombre": "Hory",
+        "img":"assets/img/modelo-hory-productos.jpg",
+        "precio": 730,
+        "cantidad":1,
+        "stock": 30
+    },
+    {
+        "id": 5,
+        "tipo": "Yerbera",
+        "nombre": "Copon",
+        "img":"assets/img/yya1.jpg",
+        "precio": 810,
+        "cantidad":1,
+        "stock": 30
+    },
+    {
+        "id": 6,
+        "tipo": "Yerbera",
+        "nombre": "Tubo",
+        "img":"assets/img/yya2.jpg",
+        "precio": 790,
+        "cantidad":1,
+        "stock": 30
+    },
+    {
+        "id": 7,
+        "tipo": "Yerbera",
+        "nombre": "Manzanita",
+        "img":"assets/img/yya3.jpg",
+        "precio": 740,
+        "cantidad":1,
+        "stock": 30
+    },
+    {
+        "id": 8,
+        "tipo": "Yerbera",
+        "nombre": "Tubito",
+        "img":"assets/img/yya4.jpg",
+        "precio": 750,
+        "cantidad":1,
+        "stock": 30
+    },
+    {
+        "id": 9,
+        "tipo": "Yerbera",
+        "nombre": "Jarrita",
+        "img":"assets/img/yya5.jpg",
+        "precio": 830,
+        "cantidad":1,
+        "stock": 30
+    },
+    {
+        "id": 10,
+        "tipo": "Tablita",
+        "nombre": "2 cavidades",
+        "img":"assets/img/tablas1.jpg",
+        "precio": 630,
+        "cantidad":1,
+        "stock": 30
+    },
+    {
+        "id": 11,
+        "tipo": "Tablita",
+        "nombre": "1 cavidad",
+        "img":"assets/img/tablas2.jpg",
+        "precio": 680,
+        "cantidad":1,
+        "stock": 30
+    }
+]

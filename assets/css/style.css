@@ -1,0 +1,90 @@
+@font-face {
+  font-family: LoveStoryRough;
+  src: url(LoveStoryRough.ttf);
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0);
+  }
+
+  100% {
+    transform: translateY(-2px);
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  text-decoration: none;
+  font-family: LoveStoryRough;
+}
+
+body {
+  background: url(../img/yerbamate.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.navbar {
+  color: black;
+  font-size: 20px;
+  box-shadow: 2px 2px 5px black;
+}
+
+.bg-img {
+  background: rgba(237, 178, 171, 0.8);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding-bottom: 20px;
+  box-shadow: 2px 2px 5px black;
+}
+
+.bg-img-white {
+  background: rgba(255, 255, 255, 0.8);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  box-shadow: 2px 2px 5px black;
+}
+
+.bg-img-black {
+  background: rgba(0, 0, 0, 0.8);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  color: #F9D6D3;
+  padding: 10px 0;
+}
+
+p {
+  font-size: 20px;
+}
+
+h4 {
+  text-align: center;
+}
+
+.pro-tienda {
+  border: 1px solid black;
+}
+
+.copy-jm {
+  box-shadow: 2px 2px 5px #F9D6D3;
+}
+
+.fab {
+  color: #F9D6D3;
+  margin: 5px 10px 20px 10px;
+}
+
+.btn {
+  border: 1px solid black;
+}
